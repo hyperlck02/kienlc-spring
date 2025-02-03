@@ -1,0 +1,12 @@
+package com.kienlc.spring;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication
+public class KienlcSpringApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KienlcSpringApplication.class, args);
+	}
+
+}
